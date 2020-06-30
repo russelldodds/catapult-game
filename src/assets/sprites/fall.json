@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "fallCat.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 586,
+				"h": 1723
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Fall (3).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 542,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 16,
+						"w": 297,
+						"h": 434
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 297,
+						"h": 434
+					}
+				},
+				{
+					"filename": "Fall (5).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 542,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 26,
+						"w": 285,
+						"h": 419
+					},
+					"frame": {
+						"x": 300,
+						"y": 1,
+						"w": 285,
+						"h": 419
+					}
+				},
+				{
+					"filename": "Fall (7).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 542,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 16,
+						"w": 296,
+						"h": 434
+					},
+					"frame": {
+						"x": 1,
+						"y": 437,
+						"w": 296,
+						"h": 434
+					}
+				},
+				{
+					"filename": "Fall (4).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 542,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 21,
+						"w": 286,
+						"h": 427
+					},
+					"frame": {
+						"x": 299,
+						"y": 437,
+						"w": 286,
+						"h": 427
+					}
+				},
+				{
+					"filename": "Fall (2).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 542,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 21,
+						"w": 287,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 873,
+						"w": 287,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Fall (8).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 542,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 21,
+						"w": 286,
+						"h": 427
+					},
+					"frame": {
+						"x": 299,
+						"y": 866,
+						"w": 286,
+						"h": 427
+					}
+				},
+				{
+					"filename": "Fall (1).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 542,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 27,
+						"w": 285,
+						"h": 409
+					},
+					"frame": {
+						"x": 1,
+						"y": 1313,
+						"w": 285,
+						"h": 409
+					}
+				},
+				{
+					"filename": "Fall (6).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 542,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 21,
+						"w": 287,
+						"h": 427
+					},
+					"frame": {
+						"x": 290,
+						"y": 1295,
+						"w": 287,
+						"h": 427
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ed3471ded2631b2817b61d6e59bb960f:6fbe7057a079ad0b4ca878299de8fcf4:0dbda3c50911435d3e5d976ad629b0d8$"
+	}
+}

@@ -110,7 +110,7 @@ class TitleScene extends Phaser.Scene {
       this.enterNameText.visible = true;
     } else if (this.loaded && !this.titleText.visible) {
       this.titleText.visible = true;
-      this.titleText.text = 'Mango Fandango';
+      this.titleText.text = 'Catapult';
 
       getTopScore(this.database, (score, name) => {
         console.log('score is: ', score)

@@ -76,12 +76,12 @@ export default {
     }
   },
   firebase :  {
-    apiKey: "AIzaSyDWzxleXN5fjQEYMZ-LxKKU4BVtbl70X_g",
-    authDomain: "mango-fandango.firebaseapp.com",
-    databaseURL: "https://mango-fandango.firebaseio.com",
-    projectId: "mango-fandango",
-    storageBucket: "mango-fandango.appspot.com",
-    messagingSenderId: "820409470818",
-    appId: "1:820409470818:web:71ce56682b83a5edb2e63b"
+    apiKey: "AIzaSyA0rWoM6b3ZEAJvFCEjZVOo4bh4pJGk0wk",
+    authDomain: "catapult-phaser3.firebaseapp.com",
+    databaseURL: "https://catapult-phaser3.firebaseio.com",
+    projectId: "catapult-phaser3",
+    storageBucket: "catapult-phaser3.appspot.com",
+    messagingSenderId: "582432023105",
+    appId: "1:582432023105:web:a3051143153f34083f1cc0"
   }
 };

@@ -1,0 +1,32 @@
+{
+  "name": "mango_fandango",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "serve": "webpack-dev-server --open"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "babel-loader": "^8.0.6",
+    "clean-webpack-plugin": "^3.0.0",
+    "file-loader": "^4.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0",
+    "webpack-merge": "^4.2.2",
+    "lodash": "^4.17.15"
+  },
+  "dependencies": {
+    "@beyonk/google-fonts-webpack-plugin": "^1.2.3",
+    "css-loader": "^3.6.0",
+    "firebase": "^7.15.4",
+    "phaser": "^3.23.0",
+    "webfontloader": "^1.6.28",
+    "uuid": "^8.2.0"
+  }
+}

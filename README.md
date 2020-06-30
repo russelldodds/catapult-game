@@ -1,4 +1,8 @@
-##Setup
+## Play
+
+https://catapult-phaser3.web.app/
+
+## Setup
 
 ```bash
 yarn

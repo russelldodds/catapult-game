@@ -45,7 +45,7 @@ class TitleScene extends Phaser.Scene {
     this.add.sprite(0, 0, 'trees').setOrigin(0, 0);
     this.add.sprite(0, 910, 'ground').setOrigin(0, 0);
 
-    this.titleText = this.add.text(500, 300, '',
+    this.titleText = this.add.text(700, 300, '',
       {
         fontFamily: 'Luckiest Guy',
         fontSize: 112,

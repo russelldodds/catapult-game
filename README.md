@@ -15,7 +15,7 @@ yarn serve
 
 ## Firebase
 
-Request access from Russell (will need an email google likes)
+Need to update Firebase ocnfig to your own hosting/database configuration to publish
 
 ```bash
 yarn build
